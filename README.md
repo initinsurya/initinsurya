@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Nitin Surya Imadabathuni, a passionate Full St
 - Location: Tampa, Florida
 - Portfolio: [nitinsurya.com](https://nitinsurya.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nitinsuryaimadabathuni/)
-- GitHub: [GitHub Profile](https://github.com/yourgithubusername)
+- GitHub: [GitHub Profile](https://github.com/initinsurya)
 
 ## Education 📚
 **Master of Science in Computer Science**
