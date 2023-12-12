@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Nitin Surya Imadabathuni, a passionate Full St
 - Email: nitinsuryaimadabathuni@gmail.com
 - Phone: +18137978312
 - Location: Tampa, Florida
-- Portfolio: [nitinsurya.com](https://nitinsurya.com)
+- Portfolio: [nitinsurya.com](https://www.nitinsurya.com/)
 - LinkedIn: [https://www.linkedin.com/in/nitinsuryaimadabathuni](https://www.linkedin.com/in/nitinsuryaimadabathuni/)
 - GitHub: [https://github.com/initinsurya](https://github.com/initinsurya)
 
